@@ -1,4 +1,4 @@
-Copyright (C) 2018 - The LineageOS Project
+Copyright (C) 2020 - The PixelExperience Project
 
 Device configuration for Xiaomi Redmi 4A ("rolex")
 ==================================================
